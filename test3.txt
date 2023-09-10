@@ -1,0 +1,2 @@
+Add and commit the file
+Push the code to the central repository
